@@ -1,0 +1,2 @@
+# Consistency Models Notebook
+The notebook is self-contained, so as long as you have python with `jupyter` installed all you need to do is run the notebook. The images are a problem as always, but if you run the notebook locally, they should be there.
